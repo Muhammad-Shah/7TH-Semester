@@ -1,0 +1,32 @@
+[
+    {
+        "Name": "Zaryab",
+        "Class": "10th",
+        "Grade": 65
+    },
+    {
+        "Name": "Sulaiman",
+        "Class": "9th",
+        "Grade": 75
+    },
+    {
+        "Name": "Muddasir",
+        "Class": "11th",
+        "Grade": 50
+    },
+    {
+        "Name": "Hashim",
+        "Class": "12th",
+        "Grade": 80
+    },
+    {
+        "Name": "Maaz",
+        "Class": "12th",
+        "Grade": 65
+    },
+    {
+        "Name": "Adil",
+        "Class": "11th",
+        "Grade": 70
+    }
+]
